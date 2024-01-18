@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "555295360647",
+    "firebase_url": "https://whtsapp-11f88-default-rtdb.firebaseio.com",
+    "project_id": "whtsapp-11f88",
+    "storage_bucket": "whtsapp-11f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555295360647:android:4f4fd4e73eb23f53985a22",
+        "android_client_info": {
+          "package_name": "com.example.wht_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh2XqSbk9Chu3AiYzSdi2l3vyT3En9W7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
